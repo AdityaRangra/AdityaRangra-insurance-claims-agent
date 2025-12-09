@@ -43,13 +43,12 @@ Open [http://localhost:5173](http://localhost:5173)
 ## 👤 Author
 
 **YOUR NAME HERE**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: [@aditya_rangra](https://github.com/AdityaRangra)
+- Email: adityarangra7@gmail.com
 
 ## 📄 License
 
-MIT License - © 2024 YOUR NAME
+MIT License - © 2025 aditya rangra
 
 ---
 
