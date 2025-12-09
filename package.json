@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "keywords": ["insurance", "claims-processing", "fnol", "automation", "ai-agent", "react"],
-  "author": "YOUR NAME <your.email@example.com>",
+  "author": "Aditya Rangra <adityarangra7@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "react": "^18.2.0",
